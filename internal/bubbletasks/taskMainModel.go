@@ -171,6 +171,11 @@ func (m taskMainModel) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 				m.resetViewFocus()
 			}
 		}
+	case filterView:
+		{
+			m.filter, cmd = m.filter.Update(msg)
+			cmds = append(cmds, cmd)
+		}
 	}
 
 	return m, tea.Batch(cmds...)
