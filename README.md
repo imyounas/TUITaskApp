@@ -10,6 +10,17 @@ It is based on three views
 - Details > To view the detail of a task. User can also edit the task and add a new one.
 
 ## Screenshots
+#### Main View
+![Main TUI]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Main.png "Main TUI")
+
+#### Filter View
+![Filter View]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Filter.png "Filter View")
+
+#### Edit Task View
+![Main TUI]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Edit2.png "Edit View")
+
+#### New Task View
+![Main TUI]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Newtask.png "New View")
 
 
 
