@@ -11,16 +11,16 @@ It is based on three views
 
 ## Screenshots
 #### Main View
-![Main TUI]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Main.png "Main TUI")
+![Main TUI](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Main.png "Main TUI")
 
 #### Filter View
-![Filter View]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Filter.png "Filter View")
+![Filter View](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Filter.png "Filter View")
 
 #### Edit Task View
-![Main TUI]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Edit2.png "Edit View")
+![Main TUI](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Edit2.png "Edit View")
 
 #### New Task View
-![Main TUI]([image_url_or_path](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Newtask.png "New View")
+![Main TUI](https://github.com/imyounas/TUITaskApp/blob/main/screenshots/Newtask.png "New View")
 
 
 
